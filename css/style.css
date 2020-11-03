@@ -125,7 +125,7 @@ fieldset {
 
 /* ----------------------button--------------------------- */
 
-button {
+#boton {
     appearance: button;
     text-rendering: auto;
     color: white;
