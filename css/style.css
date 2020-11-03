@@ -127,7 +127,6 @@ fieldset {
 
 button {
     appearance: button;
-    -webkit-writing-mode: horizontal-tb !important;
     text-rendering: auto;
     color: white;
     letter-spacing: normal;
