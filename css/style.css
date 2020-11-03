@@ -98,8 +98,6 @@ fieldset {
     margin: 20px;
 }
 
-element.style {}
-
 .form-control {
     display: block;
     width: 100%;
@@ -122,4 +120,35 @@ element.style {}
     font-size: 1.25rem;
     line-height: 1.5;
     border-radius: .3rem;
+}
+
+
+/* ----------------------button--------------------------- */
+
+button {
+    appearance: button;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: white;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: #a5bd5b;
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: #8eac34;
+    border-image: initial;
+    width: 7rem;
+    height: 3rem;
+    border-radius: 4rem;
 }
